@@ -2,3 +2,6 @@
 - todo sayfasında function componenet kullanılmış
 - post sayfasında class component  kullanılmış
 - koyu açık renk modu eklendi
+
+## netfliy linki
+<a href="https://vermillion-cupcake-34be33.netlify.app/"/>
