@@ -4,4 +4,4 @@
 - koyu açık renk modu eklendi
 
 ## netfliy linki
-<a href="https://vermillion-cupcake-34be33.netlify.app/"/>
+[a link](https://vermillion-cupcake-34be33.netlify.app/)
